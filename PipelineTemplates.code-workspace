@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "**/ci/azure/{steps,stages}/*/*.yml": "azure-pipelines"
+    }
+  }
+}
